@@ -1,12 +1,13 @@
 # tharunipages
 
-Minimal static website starter for GitHub Pages.
+Minimal static website starter for Tharuni.
 
 ## Hosting
 
-- Initial target: GitHub Pages
+- Current target: GitHub Pages via GitHub Actions
 - Future options: CloudFront or another static hosting provider
 
 ## Files
 
-- `index.html`: landing page starter
+- `index.html`: editable landing page starter
+- `.github/workflows/deploy-pages.yml`: GitHub Pages deployment workflow
